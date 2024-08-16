@@ -316,7 +316,7 @@ int main()
             cout << "------------------------" << endl;
             break;
         case 5:
-            cout << "Exiting application." << endl;
+            cout << "Successfully Exiting from Application" << endl;
             delete toDoList;
             break;
         default:
